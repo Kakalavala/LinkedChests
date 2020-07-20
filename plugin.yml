@@ -1,0 +1,11 @@
+main: me.kakalavala.linkedchests.core.Core
+name: LinkedChests
+version: 1.0
+api-version: 1.13
+author: Kakalavala
+description: Link chests together.
+
+commands:
+  givechestlinker:
+    description: Gives the player a ChestLinker.
+    aliases: [givelinker, gcl]

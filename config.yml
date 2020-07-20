@@ -1,0 +1,3 @@
+# Whether or not the ChestLinker will be craftable.
+# Changing this will require a restart.
+chest-linker-craftable: true
