@@ -3,7 +3,7 @@ name: LinkedChests
 version: 1.0
 api-version: 1.13
 author: Kakalavala
-description: Link chests together.
+description: A Minecraft 1.13 Plugin that links chests together.
 
 commands:
   givechestlinker:
